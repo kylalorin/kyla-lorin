@@ -1,0 +1,104 @@
+		/* links for social media*/
+        ul{
+    		margin: 0;
+    		padding: 0;
+  		}
+  		.header li{
+   		 	display: inline-block;
+    		margin: 2px;
+    		list-style: none;
+  		}
+  		.header li1 a{
+    		color: white;
+    		text-decoration: none;
+    		font-size: 30px;  
+    		position: fixed;
+    		top:15px;
+    		left: 1200px;  
+    		transition: all ease-in-out 250ms;
+  		}
+		.header li2 a{
+  			color: white;
+  			text-decoration: none;
+  			font-size: 30px;  
+  			position: fixed;
+  			top:15px;
+  			left: 1250px;  
+  			transition: all ease-in-out 250ms;
+		}
+		.header li4 a{
+			color: white;
+			text-decoration: none;
+			font-size: 30px;  
+			position: fixed;
+			top:15px;
+			left: 1300px;  
+			transition: all ease-in-out 250ms;
+	  }
+		.header li1 a:hover{
+    		color: #b9b9b9;
+		}
+		.header li2 a:hover{
+    		color: #b9b9b9;
+		}
+		.header li4 a:hover{
+    		color: #b9b9b9;
+		}
+
+
+		/* Styling the body element */
+		body {
+			background-color: black;
+			margin: 30%;
+            margin-top: 10%;
+		}
+
+		/* Styling the Title, 'hey there.' */
+		#title {
+			text-align: left;
+			font-size: 9vh;
+            color: white;
+		}
+
+		/* Setting width and display
+		type of kylapartone image */
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		#quotation {
+			text-align: center;
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: white;
+		}
+
+		/* Styling the content of the page */
+		div#kyla-data {
+			background-color: black;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+            color: white;
+		}
+
+		/* Styling the sub-title, hi im kyla */
+		h1.title-hi {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+		}
+
+		h1.titlegallery {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+		}
+		/* Setting width and display
+		type of drawings images */
+		gallery {
+			display: inline-block;
+			width: 100%;
+		}
